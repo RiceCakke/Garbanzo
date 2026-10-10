@@ -1,0 +1,8 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1791656490
+icon.svg::CompressedTexture2D::5221947114910050090::1791579577::1791656491::1::::<><><>0<>0<>9124e557a4c85aeee3c0b2de9192ce22<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://scenes/::1791579577
+appart.tscn::PackedScene::1462695242451317960::1791579577::0::1::::<><><>0<>0<><>::uid://bt5ij5sdycu6i::::res://scenes/clement_script.gd<>uid://ctgiljd82ewmg::::res://sprite/clement.png
+clement_script.gd::GDScript::3782443457200250342::1791579577::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://sprite/::1791579577
+clement.png::CompressedTexture2D::6119321521588459302::1791579577::1791656491::1::::<><><>0<>0<>d4116b23a12f0070bb52377f07553bfd<>res://.godot/imported/clement.png-4092e30ee99ef251392715e15690d3a5.ctex::
